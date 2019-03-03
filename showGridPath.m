@@ -1,7 +1,7 @@
 function showGridPath(paths,img)
 
     for i = 1:size(paths,2)
-        canvas = zeros(size(img));
+        canvas = zeros(size(img,1),size(img,2));
         curr_path = paths{i};
         
         for j = 1:size(curr_path,2)
