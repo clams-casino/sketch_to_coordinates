@@ -3,15 +3,15 @@ clearvars -except grid_paths
 
 
 min_length_px = 20;
-x_scale = 300;
-downsample_factor = 5;
-x_offset = 0;
-y_offset = 0;
-z_move = 40;
+x_scale = 170;
+downsample_factor = 3;
+x_offset = 530;
+y_offset = -65;
+z_move = 20;
 z_draw = -1;
 
-load('grid_paths\doraemon_paths.mat')
-load('images\doraemon.mat')
+load('grid_paths\pikachu_paths.mat')
+load('images\pikachu.mat')
 
 coord_paths = toCoordinates(grid_paths,img,x_scale);
 
