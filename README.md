@@ -4,3 +4,6 @@ Converts the lines in an image to a series of paths in a cartesian coordinate sy
 
 
 ![example of sketch](https://github.com/not-a-meatbag/sketch_to_coordinates/blob/master/images/example.PNG)
+
+
+![example of sketch](https://github.com/not-a-meatbag/sketch_to_coordinates/blob/master/images/example2.PNG)
