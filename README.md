@@ -7,3 +7,8 @@ Converts the lines in an image to a series of paths in a cartesian coordinate sy
 
 
 ![example of sketch](https://github.com/not-a-meatbag/sketch_to_coordinates/blob/b61365989d5f2ff130cfe90c32a01a1965b13bb4/images/example2.png)
+
+
+
+
+[Manipulator in action!](https://youtu.be/vgk5x5RVeZk)
