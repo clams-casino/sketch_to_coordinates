@@ -11,4 +11,4 @@ Converts the lines in an image to a series of paths in a cartesian coordinate sy
 
 
 
-[Manipulator in action!](https://youtu.be/vgk5x5RVeZk)
+[Manipulator drawing in action (youtube link)!](https://youtu.be/vgk5x5RVeZk)
